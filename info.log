@@ -1,0 +1,84 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"console.body is not a function at bookmarks.controller.postBookmark","level":"error"}
+{"message":"console.body is not a function","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"Request with GET/HEAD method cannot have body","level":"error"}
+{"message":"Request with GET/HEAD method cannot have body","level":"error"}
+{"message":"Request with GET/HEAD method cannot have body","level":"error"}
+{"message":"Request with GET/HEAD method cannot have body","level":"error"}
+{"message":"Request with GET/HEAD method cannot have body","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"Cannot destructure property `title` of 'undefined' or 'null'. at bookmarks.controller.postBookmark","level":"error"}
+{"message":"Cannot destructure property `title` of 'undefined' or 'null'.","level":"error"}
+{"message":"body is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"body is not defined","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Not Found","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Bad Request","level":"error"}
+{"message":"Unexpected token } in JSON at position 65","level":"error"}
+{"message":"title is mandatory at bookmarks.controller.postBookmark","level":"error"}
+{"message":"title is mandatory","level":"error"}
+{"message":"url is mandatory at bookmarks.controller.postBookmark","level":"error"}
+{"message":"url is mandatory","level":"error"}
+{"message":"url is mandatory at bookmarks.controller.postBookmark","level":"error"}
+{"message":"url is mandatory","level":"error"}
+{"message":"rating is mandatory at bookmarks.controller.postBookmark","level":"error"}
+{"message":"rating is mandatory","level":"error"}
+{"message":"url must have a valid format at bookmarks.controller.postBookmark","level":"error"}
+{"message":"url must have a valid format","level":"error"}
+{"message":"Unexpected token } in JSON at position 206","level":"error"}
+{"message":"rating must be a number, and between 1 and 5 at bookmarks.controller.postBookmark","level":"error"}
+{"message":"rating must be a number, and between 1 and 5","level":"error"}
+{"message":"rating must be a number, and between 1 and 5 at bookmarks.controller.postBookmark","level":"error"}
+{"message":"rating must be a number, and between 1 and 5","level":"error"}
+{"message":"url is mandatory at bookmarks.controller.postBookmark","level":"error"}
+{"message":"url is mandatory","level":"error"}
+{"message":"encodeUri is not defined at bookmarks.controller.postBookmark","level":"error"}
+{"message":"encodeUri is not defined","level":"error"}
+{"message":"url is mandatory at bookmarks.controller.postBookmark","level":"error"}
+{"message":"url is mandatory","level":"error"}
